@@ -7,7 +7,7 @@
 
 
 
-![Software development](https://images.unsplash.com/photo-1618335829737-2228915674e0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8c29mdHdhcmUlMjBlbmdpbmVlcmluZ3xlbnwwfHwwfHx8MA%3D%3D)
+![Software development](https://publicdomainvectors.org/tn_img/generic-office-desktop2.webp)
 
 
 > 💻 **About Me**
