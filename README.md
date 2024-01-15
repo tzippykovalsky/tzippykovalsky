@@ -16,13 +16,6 @@
 > 🌐 **Technical Proficiency**
 > My competencies span front-end development, back-end programming, and adept management of databases. I am adept at leveraging contemporary technologies such as React, Node.js, and MongoDB to craft seamless user interfaces.
 
-> 📈 **Open your potential with innovative solutions!**
-> Are you ready to take your business to new heights? Look no further!
-> I am here to help you harness the power of technology and create innovative solutions for your company.
-> With my software engineering expertise and passion for problem solving, I can guide you in turning your ideas into reality.
-> Let's collaborate and go on a digital transformation journey together!
-
-
 
 
  
